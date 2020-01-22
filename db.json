@@ -1,5 +1,5 @@
 {
- "getOneMessage" : 
+ "getOneMessage" : [
       {
     "id":1,
     "type":1,
@@ -14,5 +14,5 @@
     "message":"請準時開會!",
     "selected":true
 }
- 
+ ]
 }
