@@ -9,7 +9,7 @@
       }
  ],
  "getMessageByType" : [
-   {
+   
     "massgeList":[
           {
               "id":1,
@@ -40,6 +40,6 @@
               "selected":false
           },
       ]
-   }
+   
  ]
 }
