@@ -8,7 +8,7 @@
         "selected":true
       }
  ],
- "getMessageByType" : [
+ "getMessageByType" : {
    
     "massgeList":[
           {
@@ -39,7 +39,7 @@
               "message":"下周會議臨時取消",
               "selected":false
           },
-      ]
-   
+      
+     }
  ]
 }
